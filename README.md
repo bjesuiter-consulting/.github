@@ -1,12 +1,3 @@
-# Benjamin Jesuiter IT-Consulting
+# .github
 
-## Über mich
-
-Ich bin Benjamin Jesuiter, IT-Consultant und Entwickler. Ich arbeite hauptsächlich mit den verschiedensten Web-Technologien und Frameworks, wie: 
-- solidstart 
-- tanstack/start 
-- bun 
-- deno 
-- astro 
-- vite 
-- tailwindcss 
+This repo is able to configure the readme show at the root url of the bjesuiter-consulting organization and possibly more configs. 
